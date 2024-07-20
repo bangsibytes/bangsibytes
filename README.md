@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bangsibytes
+- 👋 Hi, I’m @Thelma Bangsi
 - 👀 I’m interested in Web development, app development,  community projects 
 - 🌱 I’m currently learning python, C, html and css
 - 💞️ I’m looking to collaborate on web development and app development projects 
